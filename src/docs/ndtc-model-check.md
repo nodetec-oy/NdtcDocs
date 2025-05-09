@@ -1,1 +1,0 @@
-# Ndtc Model Check
